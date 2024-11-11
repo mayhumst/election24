@@ -1,0 +1,72 @@
+{
+    "Arizona": {
+        "num_votes": 11, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 39, "rep": 61}, 
+        "siena_poll": {
+            "dem": 45, 
+            "rep": 49, 
+            "margin_err": 3.4
+        }
+    },
+    "Georgia": {
+        "num_votes": 16, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 35, "rep": 65}, 
+        "siena_poll": {
+            "dem": 47, 
+            "rep": 48, 
+            "margin_err": 3.9
+        }
+    },
+    "Michigan": {
+        "num_votes": 15, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 58, "rep": 42}, 
+        "siena_poll": {
+            "dem": 47, 
+            "rep": 47, 
+            "margin_err": 3.7
+        }
+    },
+    "Nevada": {
+        "num_votes": 6, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 53, "rep": 47}, 
+        "siena_poll": {
+            "dem": 49, 
+            "rep": 46, 
+            "margin_err": 3.6
+        }
+    },
+    "North Carolina": {
+        "num_votes": 16, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 35, "rep": 65}, 
+        "siena_poll": {
+            "dem": 48, 
+            "rep": 46, 
+            "margin_err": 3.6
+        }
+    },
+    "Pennsylvania": {
+        "num_votes": 19, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 47, "rep": 53}, 
+        "siena_poll": {
+            "dem": 48, 
+            "rep": 48, 
+            "margin_err": 3.8
+        }
+    },
+    "Wisconsin": {
+        "num_votes": 10, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 49, "rep": 51}, 
+        "siena_poll": {
+            "dem": 49, 
+            "rep": 47, 
+            "margin_err": 3.4
+        }
+    }
+}

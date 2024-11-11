@@ -1,0 +1,282 @@
+{
+    "Alabama": {
+        "num_votes": 9, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Alaska": {
+        "num_votes": 3, 
+        "classification": "likely rep",
+        "the_hill_chance" : {"dem": 4, "rep": 96}
+    },
+    "Arizona": {
+        "num_votes": 11, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 39, "rep": 61}
+    },
+    "Arkansas": {
+        "num_votes": 6, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "California": {
+        "num_votes": 54, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Colorado": {
+        "num_votes": 10, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 94, "rep": 6}
+    },
+    "Connecticut": {
+        "num_votes": 7, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Delaware": {
+        "num_votes": 3, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 98, "rep": 2}
+    },
+    "Florida": {
+        "num_votes": 30, 
+        "classification": "likely rep",
+        "the_hill_chance" : {"dem": 17, "rep": 83}
+    },
+    "Georgia": {
+        "num_votes": 16, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 35, "rep": 65}
+    },
+    "Hawaii": {
+        "num_votes": 4, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Idaho": {
+        "num_votes": 4, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Illinois": {
+        "num_votes": 19, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 98, "rep": 2}
+    },
+    "Indiana": {
+        "num_votes": 11, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Iowa": {
+        "num_votes": 6,
+        "classification": "likely rep",
+        "the_hill_chance" : {"dem": 2, "rep": 98}
+    },
+    "Kansas": {
+        "num_votes": 6,
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Kentucky": {
+        "num_votes": 8, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Louisiana": {
+        "num_votes": 8, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Maine": {
+        "num_votes": 2, 
+        "classification": "likely dem",
+        "the_hill_chance" : {"dem": 94, "rep": 6}
+    },
+    "Maine1": {
+        "num_votes": 1, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Maine2": {
+        "num_votes": 1, 
+        "classification": "likely rep",
+        "the_hill_chance" : {"dem": 13, "rep": 87}
+    },
+    "Maryland": {
+        "num_votes": 10, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Massachusetts": {
+        "num_votes": 11, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Michigan": {
+        "num_votes": 15, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 58, "rep": 42}
+    },
+    "Minnesota": {
+        "num_votes": 10, 
+        "classification": "likely dem",
+        "the_hill_chance" : {"dem": 75, "rep": 25}
+    },
+    "Mississippi": {
+        "num_votes": 6, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Missouri": {
+        "num_votes": 10, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 2, "rep": 98}
+    },
+    "Montana": {
+        "num_votes": 4, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Nebraska": {
+        "num_votes": 2, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Nebraska1": {
+        "num_votes": 1, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 3, "rep": 97}
+    },
+    "Nebraska2": {
+        "num_votes": 1, 
+        "classification": "likely dem",
+        "the_hill_chance" : {"dem": 81, "rep": 19}
+    },
+    "Nebraska3": {
+        "num_votes": 1, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Nevada": {
+        "num_votes": 6, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 53, "rep": 47}
+    },
+    "New Hampshire": {
+        "num_votes": 4, 
+        "classification": "likely dem",
+        "the_hill_chance" : {"dem": 70, "rep": 30}
+    },
+    "New Jersey": {
+        "num_votes": 14, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 97, "rep": 3}
+    },
+    "New Mexico": {
+        "num_votes": 5, 
+        "classification": "likely dem",
+        "the_hill_chance" : {"dem": 86, "rep": 4}
+    },
+    "New York": {
+        "num_votes": 28, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "North Carolina": {
+        "num_votes": 16, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 35, "rep": 65}
+    },
+    "North Dakota": {
+        "num_votes": 3, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Ohio": {
+        "num_votes": 17, 
+        "classification": "likely rep",
+        "the_hill_chance" : {"dem": 11, "rep": 89}
+    },
+    "Oklahoma": {
+        "num_votes": 7, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Oregon": {
+        "num_votes": 8, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 96, "rep": 4}
+    },
+    "Pennsylvania": {
+        "num_votes": 19, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 47, "rep": 53}
+    },
+    "Rhode Island": {
+        "num_votes": 4, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 98, "rep": 2}
+    },
+    "South Carolina": {
+        "num_votes": 9, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 3, "rep": 97}
+    },
+    "South Dakota": {
+        "num_votes": 3, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Tennessee": {
+        "num_votes": 11, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Texas": {
+        "num_votes": 40, 
+        "classification": "likely rep",
+        "the_hill_chance" : {"dem": 11, "rep": 89}
+    },
+    "Utah": {
+        "num_votes": 6, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Vermont": {
+        "num_votes": 3, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "Virginia": {
+        "num_votes": 13, 
+        "classification": "likely dem",
+        "the_hill_chance" : {"dem": 82, "rep": 18}
+    },
+    "Washington": {
+        "num_votes": 12, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    },
+    "West Virginia": {
+        "num_votes": 4, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Wisconsin": {
+        "num_votes": 10, 
+        "classification": "tossup",
+        "the_hill_chance" : {"dem": 49, "rep": 51}
+    },
+    "Wyoming": {
+        "num_votes": 3, 
+        "classification": "safe rep",
+        "the_hill_chance" : {"dem": 1, "rep": 99}
+    },
+    "Washington D.C.": {
+        "num_votes": 3, 
+        "classification": "safe dem",
+        "the_hill_chance" : {"dem": 99, "rep": 1}
+    }
+}
